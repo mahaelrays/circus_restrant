@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    
+    color: #fff;
+}
+.bgColorNav {
+     background-color: #0e0e0e;
+}
+.marginBtLi{
+     margin-right: 20px;
+    font-size: x-large;
+    }
+.fItalicB{
+    font-style: italic;
+}
+.text-content {
+    color:white;
+}
+ .card {
+    border:none;
+    background-color: transparent;
+    color:white;
+    border-radius: 0.9375rem;
+}
+.card img{
+    border-radius: 0.9375rem;
+    object-fit: cover;
+    height: 250px;
+    width:100%;
+
+}
+.submit {
+    color: #fff !important;
+    display: block;
+    width: 52px;
+    height: 52px;
+    font-size: 16px;
+    background: #fd7500 !important;
+    border: none;
+    border-radius: 0
+}
+
+.block-latest-news {
+    display: block;
+    height: 80px;
+    width: 80px;
+}
+
+.text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-left: 10px;
+}
+footer {
+    bottom: 0;
+    width: 100%;
+}
